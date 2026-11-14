@@ -1,0 +1,7 @@
+kullanici_adi= "ahmet"
+sifre= "12345"
+if kullanici_adi== "ahmet" and sifre == "12345":
+    print ("giriş başarili")
+else:
+    print("kullanici adi veya sifre hatali")
+
